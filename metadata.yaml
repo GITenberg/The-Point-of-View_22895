@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25246
     wikipedia: http://en.wikipedia.org/wiki/Stanley_G._Weinbaum
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22895#The-Point-of-View
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-05'
 gutenberg_type: Text
